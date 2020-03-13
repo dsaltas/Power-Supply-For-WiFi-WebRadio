@@ -1,6 +1,6 @@
 ## Power Supply For WiFi WebRadio
 
-This is a miniature power supply for WiFi WebRadio
+This is a miniature power supply with built-in Li-Ion charger for WiFi WebRadio
 
 It is based on [LTC3440](https://www.analog.com/en/products/ltc3440.html) chip.
 
@@ -9,4 +9,7 @@ It is based on [LTC3440](https://www.analog.com/en/products/ltc3440.html) chip.
 
 ### Features
 
-- 
+- Voltage input 2,7V to 4,2V
+- Voltage ouput 3,3V at 600mA
+- Low battery LED indicator at 3V or less
+- Li-Ion charger 4,2V at 500mA
