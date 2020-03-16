@@ -5,7 +5,7 @@ This is a miniature power supply with built-in Li-Ion charger for [WiFi WebRadio
 It is based on [LTC3440](https://www.analog.com/en/products/ltc3440.html) chip. A Micropower Synchronous Buck-Boost DC/DC Converter.
 
 ![Top](Photos/top.png)
-![Bottom](Photos/bottom.png)
+![PsuWebRadio](Photos/psu_webradio.png)
 
 ### Features
 
