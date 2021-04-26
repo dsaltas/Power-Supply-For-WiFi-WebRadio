@@ -12,7 +12,3 @@ It is based on [LTC3440](https://www.analog.com/en/products/ltc3440.html) chip. 
 - Voltage output 3,3V at 600mA
 - Low battery LED indicator at 3V or less
 - Li-Ion charger at 4,2V / 500mA
-
-### ToDo
-
-- Upload gerber files
