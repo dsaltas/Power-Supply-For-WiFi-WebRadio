@@ -16,4 +16,3 @@ It is based on [LTC3440](https://www.analog.com/en/products/ltc3440.html) chip. 
 ### ToDo
 
 - Upload gerber files
-- Upload BOM
